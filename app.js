@@ -9,6 +9,8 @@
 // C = +prompt('C = sonini kiriting')
 // document.writeln(A>0 && B>0 && C>0)
 
+
+
 // 28-misol
 x = +prompt('x = sonini kiriting')
 y = +prompt('y = sonini kiriting')
